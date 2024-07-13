@@ -34,3 +34,5 @@ pip install tiktoken <br>
 pip install chromadb <br>
 pip install streamlit <br>
 pip install streamlit-mic-recorder
+
+# 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
